@@ -1,0 +1,5 @@
+streamlit>=1.18.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+shap>=0.41.0
+autogluon.tabular[all]>=0.8.2
